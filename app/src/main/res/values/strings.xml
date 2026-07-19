@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenCode CLI</string>
+    <string name="terminal_title">Terminal</string>
+    <string name="settings_title">Settings</string>
+    <string name="setup_title">Setup</string>
+    <string name="btn_start">Start Terminal</string>
+    <string name="btn_setup">Run Setup</string>
+    <string name="btn_settings">Settings</string>
+    <string name="status_setup_complete">Setup complete!</string>
+    <string name="status_setup_running">Setting up environment…</string>
+    <string name="status_downloading_node">Downloading Node.js runtime…</string>
+    <string name="status_installing_opencode">Installing OpenCode CLI…</string>
+    <string name="setup_description">Configure your environment to use OpenCode CLI on Android.\n\nThis will download Node.js and install the OpenCode CLI package.</string>
+    <string name="server_url_label">Server URL</string>
+    <string name="server_url_default">https://api.opencode.ai</string>
+    <string name="node_version_label">Node.js Version</string>
+    <string name="node_version_default">22</string>
+    <string name="start_terminal_hint">Type a command and press Enter</string>
+    <string name="notification_channel_terminal">Terminal Sessions</string>
+    <string name="notification_running">OpenCode is running</string>
+</resources>

@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "name": "githubdev",
+      "path": "/root/.config/opencode/skills/githubdev/SKILL.md"
+    }
+  ],
+  "agents": {
+    "android-builder": {
+      "description": "Builds the OpenCode CLI Android APK",
+      "prompt": "You are an Android build specialist. Your job is to build the OpenCode CLI Android APK using Gradle. Ensure the Android SDK is properly configured and the build completes successfully."
+    }
+  }
+}

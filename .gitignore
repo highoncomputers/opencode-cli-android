@@ -1,0 +1,31 @@
+# Android / Gradle
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+
+# Android SDK
+android_sdk/
+
+# Build artifacts
+*.apk
+*.aab
+*.dex
+*.class
+*.log
+
+# Node.js / npm
+node_modules/
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.keystore
+*.jks
+*.p12
+keystore.properties
